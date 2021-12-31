@@ -1,0 +1,13 @@
+/* basic styles for black background and crosshair cursor */
+body {
+	background-image: url("New_Year.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+	margin-left: 25%;
+}
+
+canvas {
+	cursor: crosshair;
+	display: block;
+}
